@@ -15,3 +15,8 @@ An end-to-end data analytics project that processes raw sales data, performs fea
 * Sales Over Period of time
 * Comparision of Sales/Profit/Quantity Between TWO DATES
 * Map Structural Representation by Sales per City
+
+STEPS:-
+1.DATA MODELING OF RAW DATA AVAILABLE IN (store+Data.xlsx)
+2.Create a Star Scheme for the relationship connection of data
+3.create amazing report as represented in Sales analysis.pbix
