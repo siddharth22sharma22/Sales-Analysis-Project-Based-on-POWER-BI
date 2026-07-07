@@ -1,3 +1,7 @@
+<img width="1919" height="1079" alt="Screenshot 2026-07-04 013912" src="https://github.com/user-attachments/assets/a965d4c0-64ae-4d20-8ac4-84ea08022f4c" />
+<img width="1908" height="1079" alt="Screenshot 2026-07-04 014002" src="https://github.com/user-attachments/assets/706727dd-3690-4d2d-98bb-e541d03304bb" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-04 013829" src="https://github.com/user-attachments/assets/de13507d-ce5b-4a75-9333-23506c2c4a4d" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-04 013847" src="https://github.com/user-attachments/assets/6a1bf149-cfe4-43cd-926e-40e0dcf8d5fc" />
 # End-to-End Sales Performance Analytics Pipeline
 
 ## 🚀 Project Overview
